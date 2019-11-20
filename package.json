@@ -3,9 +3,6 @@
 	"version": "0.1.0",
 	"author": "Bari.J <bari.jonathan@live.fr>",
 	"description": "Un chat sur navigateur web",
-	"scripts": {
-		"start": "node server/server.js"
-	},
 	"dependencies": {
 		"node": "^13.1.0",
 		"node-cache": "^5.0.2",
