@@ -1,8 +1,13 @@
 {
-	"name": "WebChat",
+	"name": "Web_Chat_Server",
 	"version": "0.1.0",
 	"author": "Bari.J <bari.jonathan@live.fr>",
-	"description": "Un chat sur navigateur web",
+	"description": "WebSocket Server pour le chat via navigateur web",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BlackyB/WebChat_Server"
+	},
+	"license": "ISC",
 	"dependencies": {
 		"node": "^13.1.0",
 		"node-cache": "^5.0.2",
